@@ -1,3 +1,8 @@
+from Bloque import *
+from MientrasQue import *
+from Mostrar import *
+from Si import *
+
 def visitante():
     mostrar_ok = Mostrar('"OK"') 
     mostrar_ko = Mostrar('"KO"') 
